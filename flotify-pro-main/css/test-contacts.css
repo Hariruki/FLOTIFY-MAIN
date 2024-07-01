@@ -1,0 +1,134 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.contacts-main-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+h1.heading-contact {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 2em;
+}
+
+table.emergency-contacts {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.table-headings {
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+table tr td {
+    width: 33.33%;
+}
+
+.name-with-logo {
+    display: flex;
+}
+
+.name-with-logo img {
+    width: 100px;
+    height: 100px;
+}
+
+h2.agency-name {
+    font-size: 20px;
+    margin-left: 2em;
+}
+
+table td {
+    padding-top: 20px;
+}
+
+p.contact-number {
+    background-color: #f8f8f8;
+    border: 1px solid gainsboro;
+    border-radius: 15px;
+    font-family: 'Roboto Mono', monospace;
+    width: 50%;
+    text-align: center;
+    color: rgb(70, 70, 70);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    padding: 10px;
+    font-style: italic;
+}
+
+.link-with-logo {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    transition: 150ms ease-in-out;
+    border-radius: 50px;
+    background-color: #f8f8f8;
+    border-color: gainsboro;
+    text-align: center;
+}
+
+.link-with-logo:hover {
+    border: 3px solid #0165e1;
+    background-color: transparent;
+}
+
+a.facebook-page {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    text-decoration: none;
+    color: #252525;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.credit-placeholder {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+img.flotify-logo {
+    width: 28%;
+    height: auto;
+}
+
+.flotify-heading {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.credit-desc-aplus {
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+h1.credit-desc-head {
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+img.aplus-logo {
+    width: 120px;
+    height: 120px;
+}

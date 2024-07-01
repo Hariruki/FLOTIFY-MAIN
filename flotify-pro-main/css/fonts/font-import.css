@@ -1,0 +1,12 @@
+@import url(Inter-VariableFont_slnt\,wght.ttf);
+@import url(RobotoMono-VariableFont_wght.ttf);
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-VariableFont_slnt\,wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-VariableFont_wght.ttf') format('truetype');
+}
